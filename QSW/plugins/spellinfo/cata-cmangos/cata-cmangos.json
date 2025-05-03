@@ -1,0 +1,8 @@
+{
+    "name" : "cata-cmangos",
+    "fullName" : "WoW 4.3.4 (CMaNGOS)",
+    "version" : "1.0.0",
+    "htmlFile" : "template.html",
+    "cssFile" : "template.css",
+    "enumsFile" : "enums.json"
+}
